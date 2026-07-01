@@ -8,60 +8,60 @@
 // ----------------------------------------------------------------
 
 // Channels
-"Channel_All"			"ALL"
-"Channel_Team"			"TEAM"
-"Switch_All"			"(TAB to switch to TEAM)"
-"Switch_Team"			"(TAB to switch to ALL)"
+"Channel_All"			"ΟΛΟΙ"
+"Channel_Team"			"ΟΜΑΔΑ"
+"Switch_All"			"(TAB για να αλλάξεις σε ΟΜΑΔΑ)"
+"Switch_Team"			"(TAB για να αλλάξεις σε ΟΛΟΙ)"
 
 // Chat Prefixes
 "Chat_All"				"%s1: %s2"
-"Chat_All_Dead"			"*DEAD* %s1: %s2"
-"Chat_All_Spec"			"*SPEC* %s1: %s2"
-"Chat_Team"				"(TEAM) %s1: %s2"
-"Chat_Team_Loc"			"(TEAM) %s1 @ %s3: %s2"
-"Chat_Team_Dead"		"(TEAM) *DEAD* %s1: %s2"
-"Chat_Team_Spec"		"(TEAM) *SPEC* %s1: %s2"
+"Chat_All_Dead"			"*ΝΕΚΡΟΣ* %s1: %s2"
+"Chat_All_Spec"			"*ΘΕΑΤΗΣ* %s1: %s2"
+"Chat_Team"				"(ΟΜΑΔΑ) %s1: %s2"
+"Chat_Team_Loc"			"(ΟΜΑΔΑ) %s1 @ %s3: %s2"
+"Chat_Team_Dead"		"(ΟΜΑΔΑ) *ΝΕΚΡΟΣ* %s1: %s2"
+"Chat_Team_Spec"		"(ΟΜΑΔΑ) *ΘΕΑΤΗΣ* %s1: %s2"
 
-"Chat_All_Dev"			"[DEV] %s1: %s2"
-"Chat_All_Dev_Dead"		"*DEAD* [DEV] %s1: %s2"
-"Chat_All_Dev_Spec"		"*SPEC* [DEV] %s1: %s2"
-"Chat_Team_Dev"			"(TEAM) [DEV] %s1: %s2"
-"Chat_Team_Dev_Loc"		"(TEAM) [DEV] %s1 @ %s3: %s2"
-"Chat_Team_Dev_Dead"	"(TEAM) *DEAD* [DEV] %s1: %s2"
-"Chat_Team_Dev_Spec"	"(TEAM) *SPEC* [DEV] %s1: %s2"
+"Chat_All_Dev"			"[ΠΡΟΓ] %s1: %s2"
+"Chat_All_Dev_Dead"		"*ΝΕΚΡΟΣ* [ΠΡΟΓ] %s1: %s2"
+"Chat_All_Dev_Spec"		"*ΘΕΑΤΗΣ* [ΠΡΟΓ] %s1: %s2"
+"Chat_Team_Dev"			"(ΟΜΑΔΑ) [ΠΡΟΓ] %s1: %s2"
+"Chat_Team_Dev_Loc"		"(ΟΜΑΔΑ) [ΠΡΟΓ] %s1 @ %s3: %s2"
+"Chat_Team_Dev_Dead"	"(ΟΜΑΔΑ) *ΝΕΚΡΟΣ* [ΠΡΟΓ] %s1: %s2"
+"Chat_Team_Dev_Spec"	"(ΟΜΑΔΑ) *ΘΕΑΤΗΣ* [ΠΡΟΓ] %s1: %s2"
 
-"Chat_Voice"			"(VOICE) "
+"Chat_Voice"			"(ΦΩΝΗ) "
 
 // Chat Printouts
-"TF_Joined_Game"				"%s1 has joined the game"
-"TF_Left_Game"					"%s1 left the game (%s2)"
-"TF_Joined_Team"				"%s1 joined team %s2"
-"TF_Name_Change"				"* %s1 changed name to %s2"
+"TF_Joined_Game"				"%s1 έχει μπει στο παιχνίδι"
+"TF_Left_Game"					"%s1 έχει βγει από το παιχνίδι (%s2)"
+"TF_Joined_Team"				"%s1 συμμετέχει στην ομάδα %s2"
+"TF_Name_Change"				"* %s1 άλλαξε το όνομα σε %s2"
 
-"TF_Team_Balanced"				"%s1 has been moved to team %s2"
-"TF_Autobalance_TeamChangeDone"	"You have been moved to team %s1"
+"TF_Team_Balanced"				"%s1 έχει μεταφερθεί στην ομάδα %s2"
+"TF_Autobalance_TeamChangeDone"	"Έχεις μεταφερθεί στην ομάδα %s1"
 
-"TF_VIP_Assigned"				"%s1 is now the VIP!"
+"TF_VIP_Assigned"				"%s1 είναι τώρα ο VIP!"
 
 // Chat Filters
-"Chat_Filter_Voice"		"Voice Commands"
+"Chat_Filter_Voice"		"Φωνητικές Εκτελέσεις"
 
 // ----------------------------------------------------------------
 // General
 // ----------------------------------------------------------------
 
 // Sentry consent popup
-"TF_SentryReport_Title"				"Send Error Reports?"
-"TF_SentryReport_Message"			"Would you like to allow sending anonymous error reports to the Team Fortress 2 Classified team?"
+"TF_SentryReport_Title"				"Αποστολή Αναφορών Σφαλμάτων;"
+"TF_SentryReport_Message"			"Θα θέλατε να επιτρέψετε την αποστολή ανώνυμων αναφορών σφαλμάτων στην ομάδα του Team Fortress 2 Classified;"
 
 // VIP voting
-"Vote_ChangeCivilian"				"Change VIP"
-"TF_vote_change_civilian"			"Choose player %s1 to be the VIP?"
-"TF_vote_change_civilian_caller"	"Player %s1 wants to be the VIP."
-"TF_vote_passed_change_civilian"	"The VIP will be player: %s1..."
+"Vote_ChangeCivilian"				"Άλλαξε VIP"
+"TF_vote_change_civilian"			"Επέλεξε τον παίκτη %s1 να γίνει ο VIP;"
+"TF_vote_change_civilian_caller"	"Ο παίκτης %s1 θέλει να γίνει ο VIP."
+"TF_vote_passed_change_civilian"	"Ο VIP θα είναι ο παίκτης: %s1..."
 
 // Player list dialog
-"TF_Volume_Generic"			"Volume:"
+"TF_Volume_Generic"			"Ένταση:"
 
 // ----------------------------------------------------------------
 // Teams
@@ -73,24 +73,24 @@
 "TF_GreenTeam_Name"					"GRN"
 "TF_YellowTeam_Name"				"YLW"
 
-"TF_Other_Name"						"OTHER"
+"TF_Other_Name"						"ΑΛΛΗ"
 
 // Disguise Kit global disguise
-"Hud_Menu_Disguise_GlobalTeam"		"Global Disguise: Every enemy will see you as their own team."
+"Hud_Menu_Disguise_GlobalTeam"		"Ολική Μεταμφίαση: Όλοι οι εχθροί θα σε βλέπουν ως μέλος της δικής τους ομάδας."
 
 // Autobalance
-"TF_teamswitch_green"				"You are now on GRN!"
-"TF_teamswitch_yellow"				"You are now on YLW!"
+"TF_teamswitch_green"				"Είσαι τώρα στην GRN!"
+"TF_teamswitch_yellow"				"Είσαι τώρα στην YLW!"
 
 // ----------------------------------------------------------------
 // Classes
 // ----------------------------------------------------------------
 
-"TF_Special"	"SPECIAL"
+"TF_Special"	"ΕΙΔΙΚΗ"
 
 // Civilian
-"TF_Civilian" 				"CIVILIAN"
-"TF_Class_Name_Civilian" 	"Civilian"
+"TF_Civilian" 				"ΠΟΛΙΤΗΣ"
+"TF_Class_Name_Civilian" 	"Πολίτης"
 
 "ClassTips_10_Count"	"3"
 "ClassTips_10_1"		"Boost a teammate to give them an advantage in battle!"
@@ -106,16 +106,16 @@
 
 // General
 "TF_playerid_sameteam"					"%s1%s2"
-"TF_playerid_diffteam"					"%s1(Enemy) %s2"
+"TF_playerid_diffteam"					"%s1(Εχθρός) %s2"
 "TF_playerid_noteam"					"%s1"
-"TF_playerid_friendlyspy_disguise"		"Disguised (%s1 %s2)"
-"TF_playerid_wpn_ammo_clip"				"%s1  -  Ammo: %s2 (%s3)"
-"TF_playerid_wpn_ammo"					"%s1  -  Ammo: %s2"
+"TF_playerid_friendlyspy_disguise"		"Μεταμφιασμένος (%s1 %s2)"
+"TF_playerid_wpn_ammo_clip"				"%s1  -  Πυρομαχικά: %s2 (%s3)"
+"TF_playerid_wpn_ammo"					"%s1  -  Πυρομαχικά: %s2"
 "TF_playerid_wpn"						"%s1"
 
 // Boosts
-"TF_playerid_healer"					"(Healer) "
-"TF_playerid_healtarget"				"(Healing) "
+"TF_playerid_healer"					"(Θεραπευτής) "
+"TF_playerid_healtarget"				"(Θεραπεύει) "
 "TF_playerid_mediccharge"				"ÜberCharge: %s1%"
 "TF_playerid_mediccharge_wpn"			"%s1  -  ÜberCharge: %s2%"
 "TF_playerid_civiliancharge"			"Boost: %s1%"
@@ -148,12 +148,12 @@
 // Respawning
 // ----------------------------------------------------------------
 
-"game_respawntime_now"			"Prepare to respawn"
-"game_respawntime_in_sec"		"Respawning in 1 second"
-"game_respawntime_in_secs"		"Respawning in %s1 seconds"
-"game_respawntime_stalemate"	"No respawning in Sudden Death"
-"game_respawntime_next_round"	"Respawning next round"
-"TF_Arena_NoRespawning"			"No respawning in Arena Mode"
+"game_respawntime_now"			"Ετοιμάσου να αναγεννηθείς"
+"game_respawntime_in_sec"		"Θα αναγεννηθείς σε 1 δεύτερο"
+"game_respawntime_in_secs"		"Θα αναγεννηθείς σε %s1 δεύτερα"
+"game_respawntime_stalemate"	"Δεν αναγεννιέσαι στον Ξαφνικό Θάνατο"
+"game_respawntime_next_round"	"Θα αναγεννηθείς στον επόμενο γύρο"
+"TF_Arena_NoRespawning"			"Δεν αναγεννιέσαι στην Αρένα"
 
 // ----------------------------------------------------------------
 // Kill feed
